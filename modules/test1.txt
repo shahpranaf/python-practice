@@ -1,0 +1,1 @@
+ 'w' mode creates file if not exists and replace old data
